@@ -3,35 +3,46 @@
 @section('content')
     <h1>{{ trans('general.text.welcome') }}</h1>
     <div class="box-body">
-        Mei ad adhuc summo cetero. Qui assum habemus signiferumque cu,
-        per idque evertitur cu, doming corpora deserunt te vis. Melius
-        oporteat ea usu. Timeam tincidunt cum et. Eam justo utroque no.
-        Enim aliquando abhorreant ea sea, vis ex efficiendi referrentur,
-        ei pro tacimates sadipscing. Et consulatu gloriatur
-        signiferumque vim, an solum antiopam periculis cum.
+        Corresponde  al  INM  ejercer  el  control  sanitario  sobre
+        importaciones  y exportaciones de productos de origen vegetal a
+        fin de prevenir la introducción de  plagas  que  puedan  afectar
+        la agricultura  del  país,  así  como  tambiéncertificar la calidad
+        sanitaria de las exportaciones de nuestro País Soberano.
     </div>
     <div class="box-body">
-        Erat equidem ad sed. No has altera voluptatum, sit agam possim
-        bonorum no. Munere delenit duo eu. Sed prompta vivendum detraxit
-        an.
-        Ex recusabo suscipiantur vim, eam legendos scriptorem cu. Cum ex
-        nibh offendit adipiscing. Ea has iriure atomorum, iudico commodo
-        ut usu. Eruditi fierent fastidii in has, vix diam decore putent
-        ad. Hinc tollit minimum et sit, munere putent assueverit pri id.
+        Corresponde  al INM  establecer  las  medidas  fitosanitarias
+        para  prevenir, controlar o erradicar las plagas que afectan a los
+        vegetales, sus productos o subproductos,  así  como  las  campañas
+        de  sanidad  vegetal de  prioridad nacional. Que  el  empleo  de
+        trampas  y  el  muestreo  de frutos  para  la  detección  de moscas
+        de las frutas, es fundamental en cualquier programa fitosanitario que
+        tenga por objeto certificar la ausencia o la escasa prevalencia de moscas
+        de las frutas en áreas bien definidas, ya sea en predios registrados
+        o en rutas de monitoreo.
     </div>
     <div class="box-body">
-        Bonorum admodum contentiones vis in. Ne eum hinc minim adolescens.
-        Ea eum veniam delectus philosophia, nam ad cibo cotidieque, integre
-        inermis mea an. Movet equidem lobortis in has, vel ad eripuit
-        debitis accusamus.
-        Offendit recteque cu pri, mel id solet dicant. Ea reque iriure ius,
-        te virtute euripidis referrentur his, mea legere semper melius cu.
-        Eu pri utroque percipit contentiones. Pri timeam fierent ad, ne
-        menandri perpetua delicatissimi vis. Sanctus ullamcorper no mea. Ex
-        vel rebum erant.
-        Ius dolorum persecuti ea. Duo at quot expetenda. Id possim delenit
-        epicuri mei. Ei eum graeco legimus vulputate. Quas dicat vim id, pro
-        id dolor consetetur, vel cu aeque pertinax qualisque. Et vim agam
-        graeci, vis purto accusam ex.
+        Algunas  especies  de  moscas  de  las  frutas  se  caracterizan  como
+        la principal  plaga  de  los  frutales  en  Colombia,  debido  a  que
+        por  su  poder destructivo dañan directamente a las especies frutícolas,
+        lo que restringe su producción y comercialización.
+        Que  la  actual  tendencia  en  producir  frutos  de  alta  calidad
+        fitosanitaria  para lograr  competitividad  en  los  mercados  nacionales
+        e  internacionales,  hace necesario la implementación de actividades
+        fitosanitarias. Que  con  el  establecimiento  de  un programa  de  Detección
+        y  Manejo  de Moscas  de  las  Frutas,  se  fortalecerán  las  medidas
+        fitosanitarias  contra  esta plaga, lo que permitirá reducir los niveles de
+        población  y, reconocer predios libres, zonas de escasa prevalencia o zonas
+        libres de la plaga. Para garantizar la sanidad de las frutas con destino a la
+        exportación es necesario ejercer la vigilancia sanitaria a los predios
+        registrados dedicados a la producción de frutas frescas.
+    </div>
+    <div class="box-body">
+        Ustedes deben ingresar a la plataforma y en uno de los iconos aparece lo del
+        VIGIFITO (aparece con una llave amarilla). En ese informe deben presentar el
+        resumen del trimestre respecto a las incidencias de plagas que se tuvieron en
+        el cultivo. Es un promedio que se debe sacar de incidencias de cada plaga.
+        Adicionalmente la exportadora debe enviar un informe trimestral
+        resumiendo los tallos exportados y los predios proveedores a los cuales les han
+        comprado, incluyendo si tienen predios asociados o fincas propias de ustedes.
     </div>
 @endsection
