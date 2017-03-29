@@ -11,7 +11,7 @@ class Ticket extends Model
      *
      * @var string
      */
-    protected $table = 'mod_rsrvtn_tickets';
+    protected $table = 'mod_ticket_tickets';
 
     /**
      * Fields that can be  massed assigned.

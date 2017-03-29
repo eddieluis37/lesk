@@ -14,7 +14,7 @@ class Item extends Model
      *
      * @var string
      */
-    protected $table = 'mod_rsrvtn_items';
+    protected $table = 'mod_ticket_items';
 
     /**
      * @var array

@@ -204,7 +204,7 @@ class TicketMaintenance implements ModuleMaintenanceInterface
 
     static public function buildDB()
     {
-        Schema::create('mod_rsrvtn_items', function (Blueprint $table) {
+        Schema::create('mod_ticket_items', function (Blueprint $table) {
             $table->increments('id');
             $table->string('name')->unique();
             $table->longText('description');
@@ -212,7 +212,7 @@ class TicketMaintenance implements ModuleMaintenanceInterface
             $table->timestamps();
         });
 
-        Schema::create('mod_rsrvtn_tickets', function (Blueprint $table) {
+        Schema::create('mod_ticket_tickets', function (Blueprint $table) {
             $table->increments('id');
             $table->unsignedInteger('user_id');
             $table->unsignedInteger('item_id');
@@ -228,8 +228,8 @@ class TicketMaintenance implements ModuleMaintenanceInterface
 
     static public function destroyDB()
     {
-        Schema::dropIfExists('mod_rsrvtn_items');
-        Schema::dropIfExists('mod_rsrvtn_tickets');
+        Schema::dropIfExists('mod_ticket_items');
+        Schema::dropIfExists('mod_ticket_tickets');
 
     }
 
